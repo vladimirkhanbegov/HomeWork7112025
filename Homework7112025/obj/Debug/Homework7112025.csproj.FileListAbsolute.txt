@@ -1,0 +1,8 @@
+F:\CS_materials\Homework7112025\Homework7112025\bin\Debug\Homework7112025.exe.config
+F:\CS_materials\Homework7112025\Homework7112025\bin\Debug\Homework7112025.exe
+F:\CS_materials\Homework7112025\Homework7112025\bin\Debug\Homework7112025.pdb
+F:\CS_materials\Homework7112025\Homework7112025\obj\Debug\Homework7112025.csproj.AssemblyReference.cache
+F:\CS_materials\Homework7112025\Homework7112025\obj\Debug\Homework7112025.csproj.CoreCompileInputs.cache
+F:\CS_materials\Homework7112025\Homework7112025\obj\Debug\Homework7112025.exe
+F:\CS_materials\Homework7112025\Homework7112025\obj\Debug\Homework7112025.pdb
+F:\CS_materials\Homework7112025\Homework7112025\obj\Debug\Homework7112025.exe.config
